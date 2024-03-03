@@ -1,7 +1,10 @@
 <h1 align="center">FajrOS (فجر)</h1>
 
-## Introduction
-Welcome to FajrOS, an educational operating system project. "Fajr" (فجر), an Arabic word meaning dawn, aptly symbolizes the fresh start and the first light of understanding in the world of operating system development. FajrOS is primarily a personal learning and exploration tool in the domain of OS development.
+<img align="left" src=".github/media/fajr-logo.png" width=120 />
+
+> "Fajr" (فجر), an Arabic word meaning dawn, aptly symbolizes the fresh start and the first light of understanding in the world of operating system development
+
+Welcome to FajrOS, an educational operating system project. FajrOS is primarily a personal learning and exploration tool in the domain of OS development.
 
 ## Project Overview
 FajrOS is a basic, educational operating system built from the ground up. It serves as an ideal starting point for those interested in delving into the intricacies of how operating systems work at a fundamental level.
