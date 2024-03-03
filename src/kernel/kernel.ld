@@ -1,8 +1,8 @@
-ENTRY(_start)
+ENTRY(kernel_entry)
 
 SECTIONS
 {
-    . = 0x10000; /* Example load address, adjust as needed */
+    . = 0x1000;
 
     .text : {
         *(.text)
